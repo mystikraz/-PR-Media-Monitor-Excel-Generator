@@ -1,0 +1,6 @@
+{
+  "name": "PR Media Monitor & Excel Generator",
+  "description": "Professional PR media monitoring daily update generator with customizable columns, row headers, image uploads with links, auto-formatting, and styled Excel (.xlsx) export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
